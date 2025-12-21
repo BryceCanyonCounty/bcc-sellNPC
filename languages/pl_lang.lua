@@ -1,0 +1,21 @@
+Locales["pl_lang"] = {
+    Negotiate = "Negocjuj",
+    npcRejectOffer = "Osoba odrzuciła Twoją ofertę",
+    npcAcceptOffer = "Osoba zaakceptowała Twoją ofertę",
+    saleUnsuccessful = "Sprzedaż nieudana",
+    dontHaveItems = "Nie posiadasz wymaganych przedmiotów, aby dokonać sprzedaży.",
+    aproachNpc = "Podejdź do osoby",
+    tooFarAway = "Jesteś zbyt daleko. Sprzedaż anulowana",
+    saleSuccessful = "Sprzedaż zakończona sukcesem",
+    youReceived = "Otrzymałeś $",
+    sellToNpcReport = "Zgłoszono nielegalną aktywność w okolicy!",
+    npcAlreadySold = "Już coś sprzedałeś tej osobie.",
+    npcReject = "Osoba odmówiła.",
+    userNotFound = "Użytkownik nie został znaleziony.",
+    characterNotFound = "Brak danych postaci.",
+    NotAllowed = "Nie masz uprawnień do wykonania tej akcji.",
+    notEnoughOfficers = "Zbyt mało stróżów prawa na służbie. Wymagane: ",
+    officerAvaiable = "Dostępnych: ",
+    alreadyInteractedWithNpc = "Już próbowałeś coś sprzedać tej osobie",
+    sellLimitReached = 'Osiągnąłeś limit sprzedaży przy braku stróżów prawa na służbie!'
+}
